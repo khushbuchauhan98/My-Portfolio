@@ -214,11 +214,11 @@ div p{
     display: none;
   }
   .page{
-    width: 520px ;
-    margin-left: 40px;
+    width: 450px ;
+    margin-left: 20px;
   }
   .container{
-    width: 100%;
+    width: 900px;
     margin: 100px auto;
     display: flex;
     justify-content: center;
