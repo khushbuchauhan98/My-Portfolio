@@ -215,13 +215,13 @@ div p{
   }
   .page{
     width: 450px ;
-    /* margin-left: 20px; */
+    margin-left: 20px;
   }
   .container{
     width: 900px;
-    margin: 20px 150px ;
+    margin: 100px auto;
     display: flex;
-    justify-content: start;
+    justify-content: center;
   }
  
 }
