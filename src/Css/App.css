@@ -189,6 +189,7 @@ div p{
     width: 100%;
   } */
   .side-nav{
+    width: 1000px;
    display: flex;
     justify-content: center;
     /* margin-top: -8p ; */
@@ -214,8 +215,8 @@ div p{
     display: none;
   }
   .page{
-    width: 450px ;
-    margin-left: 20px;
+    width: 750px ;
+    /* margin-left: 20px; */
   }
   .container{
     width: 900px;
