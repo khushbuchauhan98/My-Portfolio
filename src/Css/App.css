@@ -214,13 +214,14 @@ div p{
     display: none;
   }
   .page{
-    width: 50% ;
+    width: 450px ;
     /* margin-left: 20px; */
   }
   .container{
-    width: 100%;
-    margin: 100px auto;
+    width: 900px;
+    margin: 20px 150px ;
     display: flex;
-    justify-content: center;
+    justify-content: start;
   }
+ 
 }
