@@ -7,7 +7,7 @@ function Nav() {
             <Link to="/About" className="links">about</Link>
             <Link to="/MyProjects" className="links">My Work</Link>
             {/* <a href="/guestbook" className="links">guestbook</a> */}
-            <Link to="/guestbook" className="links"></Link>
+            {/* <Link to="/guestbook" className="links"></Link> */}
         </div>
     )
 }
