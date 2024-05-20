@@ -3,7 +3,7 @@ function About(){
         <div className="page">
             <h1 className="name">About Me</h1>
             <p>
-            Hey, I'm Khushbu Thakor. 
+            Hey, I'm<span className="bold"> Khushbu Thakor</span>. 
             </p>
             <p>
             I'am currently learning <span className="bold">Web Development </span> from <span className="bold">  codekaro.in</span>.  My focus is on learning the concepts and implementing them into real-life projects.

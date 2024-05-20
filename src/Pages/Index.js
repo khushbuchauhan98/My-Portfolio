@@ -2,7 +2,7 @@ function Index() {
     return (
         <div className="page">
             <h1 className="name">Khushbu Thakor</h1>
-            <p className="roboto">Hello, I am <span className="bold">Khushbu Thakor</span>, currently learning <span className="bold">Full Stake Web Development.</span></p>
+            <p className="roboto">Hello, I am <span className="bold">Khushbu Thakor</span>, currently learning <span className="bold">Full Stack Web Development.</span></p>
             <div className="user-container">
                 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA3gMcE8J0Q4VujurOitC95f-gvdOuL7bjHQ&usqp=CAU" />
                 <div className="icons-container">
